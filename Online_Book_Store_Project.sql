@@ -18,7 +18,7 @@ CREATE TABLE customer(
    phone VARCHAR(15) ,
    city VARCHAR(50) ,
    country VARCHAR(150)
-)
+);
 
 DROP TABLE if exists orders;
 CREATE TABLE orders(
